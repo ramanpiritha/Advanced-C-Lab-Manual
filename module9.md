@@ -1,7 +1,7 @@
 # EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
-## Name: Piritharaman R
-## Register no: 212223230148
+## NAME: Piritharaman R
+## REGISTER NO: 212223230148
 
 ## Aim:
 To write a C program to display stack elements using an array.
