@@ -296,7 +296,7 @@ int main() {
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/941718ca-ac6d-4727-99a2-5fbe8ecae89e)
+<img width="642" height="351" alt="image" src="https://github.com/user-attachments/assets/ce25cbed-3ffb-4512-ab0d-1d73502c0af3" />
 
 ## Result:
 Thus, the program is verified successfully
